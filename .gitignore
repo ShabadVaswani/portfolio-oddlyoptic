@@ -1,0 +1,35 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.cache/
+coverage/
+.parcel-cache/
+.next/
+out/
+.turbo/
+.svelte-kit/
+.angular/
+.nuxt/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# PHP
+vendor/
+
+# Env & local
+.env
+.env.*
+.DS_Store
+
