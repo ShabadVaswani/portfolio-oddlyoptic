@@ -1,0 +1,14 @@
+[
+    {
+    "origin": [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "http://localhost:4173",
+    "https://sound-invention-432122-m5.web.app",
+    "https://sound-invention-432122-m5.firebaseapp.com"
+    ],
+    "method": ["GET", "HEAD", "OPTIONS"],
+    "responseHeader": ["Content-Type", "Content-Length", "Accept-Ranges", "Content-Range"],
+    "maxAgeSeconds": 3600
+    }
+]
